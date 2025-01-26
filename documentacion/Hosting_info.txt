@@ -1,0 +1,19 @@
+Datos del Hosting
+---------------------------------
+https://duplika.com/
+https://verydeli.servidoronline.net/
+
+
+Conexión a la BD
+---------------------------------
+$host = 'localhost';
+$dbname = 'verydeli_verydeli';
+$username = 'verydeli_admin'; 
+$password = 'verydeli#BD'; 
+
+
+
+Subir los archivos en la carpeta:
+---------------------------------
+
+home/verydeli/public_html
